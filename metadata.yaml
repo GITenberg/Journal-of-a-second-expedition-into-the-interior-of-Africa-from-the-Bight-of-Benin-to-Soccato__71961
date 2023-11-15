@@ -1,0 +1,64 @@
+_repo: Journal-of-a-second-expedition-into-the-interior-of-Africa-from-the-Bight-of-Benin-to-Soccato__71961
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Barrow, John, Sir
+    aliases:
+    - Barrow, Sir John
+    - Barrow, J. (John), Sir
+    birthdate: 1764
+    deathdate: 1848
+    gutenberg_agent_id: '5518'
+    url: http://www.gutenberg.org/2009/agents/5518
+    wikipedia: https://en.wikipedia.org/wiki/Sir_John_Barrow%2C_1st_Baronet
+  - agent_name: Clapperton, Samuel
+    gutenberg_agent_id: '56477'
+    url: http://www.gutenberg.org/2009/agents/56477
+  - agent_name: Lander, Richard
+    aliases:
+    - Lander, R. (Richard)
+    - Lander, Richard Lemon
+    birthdate: 1804
+    deathdate: 1834
+    gutenberg_agent_id: '56475'
+    url: http://www.gutenberg.org/2009/agents/56475
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Lander
+  - agent_name: Salamé, Abraham V.
+    aliases:
+    - Salame, Abraham V.
+    - Abraham V. Salamé
+    - Salamé, A. (Abraham V.)
+    gutenberg_agent_id: '56383'
+    url: http://www.gutenberg.org/2009/agents/56383
+creator:
+  author:
+    agent_name: Clapperton, Hugh
+    birthdate: 1788
+    deathdate: 1827
+    gutenberg_agent_id: '56381'
+    url: http://www.gutenberg.org/2009/agents/56381
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Clapperton
+description: ''
+gutenberg_issued: '2023-10-26'
+identifiers:
+  gutenberg: '71961'
+  lccn: 05008625
+language: en
+pgterms:marc904: https://archive.org/details/journalofsecond00clap
+pgterms:marc905: 20230927001731clapperton
+pgterms:marc906: '1829'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1829.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sudan (Region) -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'Journal of a second expedition into the interior of Africa, from the Bight
+  of Benin to Soccatoo : $b To which is added, the journal of Richard Lander from
+  Kano to the sea-coast, partly by a more eastern route.'
+url: http://www.gutenberg.org/ebooks/71961

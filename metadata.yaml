@@ -30,6 +30,9 @@ contributor:
     - Salamé, A. (Abraham V.)
     gutenberg_agent_id: '56383'
     url: http://www.gutenberg.org/2009/agents/56383
+covers:
+- cover_type: archival
+  image_path: 71961-h/images/cover.jpg
 creator:
   author:
     agent_name: Clapperton, Hugh
@@ -39,6 +42,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56381
     wikipedia: https://en.wikipedia.org/wiki/Hugh_Clapperton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71961#Journal-of-a-second-expedition-into-the-interior-of-Africa-from-the-Bight-of-Benin-to-Soccato_
 gutenberg_issued: '2023-10-26'
 identifiers:
   gutenberg: '71961'
